@@ -1,0 +1,8 @@
+<suite name ="Parallel" verbose ="1" >
+    <parameter name ="browser" value="Android" />
+    <test name ="Appium Project" >
+        <classes>
+            <class name ="testRunners.runner" />
+        </classes>
+    </test>
+</suite>
